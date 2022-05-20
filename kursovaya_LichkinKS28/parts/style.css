@@ -1,0 +1,31 @@
+
+body{
+    background-color: #FFE4C4;
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+th, td{
+    padding: 10px;
+}
+th{
+    background: #606060;
+    color: #fff;
+}
+td{
+    background: #b5b5b5;
+}
+a1{
+    font-weight: bold;
+}
+a:link{
+    color: #EF7D55;
+    font-weight: bold;
+}
+a:visited {
+    color: #EF7D55;
+}
+a:hover {
+    color: red;
+    border-bottom: .07em solid;
+}
